@@ -35,10 +35,12 @@ This repository contains the Maven Market Sales Report Dashboard, created using 
 - Make sure Power BI Desktop is installed to open and interact with the `.pbix` file.  
 - The dataset included is a sample; update it with your own data for live analysis.  
 
-## Author
+ ## Author
 
-Algin Farrell  
-[LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
+**Algin Farrell**
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/algin-farrell-16681432b)  
+- Email: alginfarrell82@gmail.com
 
 ---
 
